@@ -1,0 +1,7 @@
+.env
+.cursor/mcp.json
+/coindcx-cs-mcp
+/audit-consumer
+/audit-migrate
+*.exe
+.DS_Store

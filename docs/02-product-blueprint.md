@@ -19,28 +19,28 @@ developments drive that, and how confident we are.*
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
-│  Lodha Amara, Kolshet Road, Thane  ·  RERA P51700012345  ·  Resi     │
+│  Lodha Amara, Kolshet Road, Thane | RERA P51700012345 | Residential  │
 ├──────────────────────────────┬───────────────────────────────────────┤
 │  TODAY'S ESTIMATED VALUE     │  5-YEAR APPRECIATION OUTLOOK          │
-│  ₹14,200 / sq ft             │  Base case  +38%  (₹19,600 / sq ft)   │
-│  (range 13,600–14,900)       │  Bear       +18%   Bull  +55%         │
-│  Based on 46 registrations   │  Confidence: Medium  ●●●○○            │
+│  Rs 14,200 / sq ft           │  Base case +38%  (Rs 19,600 / sq ft)  │
+│  (range 13,600 - 14,900)     │  Bear +18%        Bull +55%           │
+│  Based on 46 registrations   │  Confidence: Medium (3 of 5)          │
 ├──────────────────────────────┴───────────────────────────────────────┤
-│  [Chart] Price history 2015–today ──── forecast fan chart to 2031    │
+│  [Chart] Price history 2015-today, forecast fan chart to 2031        │
 ├──────────────────────────────────────────────────────────────────────┤
-│  WHAT DRIVES THIS FORECAST                     impact   probability  │
-│  [METRO] Line 4 – Kasarvadavali stn, 900 m     +9.5%    78% by 2027  │
-│  [ROAD]  Thane Coastal Road, 2.1 km            +4.0%    45% by 2029  │
-│  [JOBS]  IT park (MIDC notification), 3 km     +2.5%    60%          │
-│  [RISK]  Supply overhang: 6,800 units launching −3.0%   —            │
-│  [TREND] City-wide market trend                +22%     —            │
-│  Each row → source document (tender, gazette, DPR, RERA filing)       │
+│  WHAT DRIVES THIS FORECAST                 impact   probability      │
+│  [METRO] Line 4, Kasarvadavali stn, 900 m  +9.5%    78% by 2027      │
+│  [ROAD]  Thane Coastal Road, 2.1 km        +4.0%    45% by 2029      │
+│  [JOBS]  IT park (MIDC notification), 3 km +2.5%    60%              │
+│  [RISK]  Supply overhang: 6,800 new units  -3.0%    -                │
+│  [TREND] City-wide market trend            +22%     -                │
+│  Each row links to its source (tender, gazette, DPR, RERA filing)    │
 ├──────────────────────────────────────────────────────────────────────┤
-│  MAP: catalysts, timelines, isochrones, flood/zoning overlays         │
+│  MAP: catalysts, timelines, isochrones, flood/zoning overlays        │
 ├──────────────────────────────────────────────────────────────────────┤
-│  RISKS: litigation on project, RERA complaints, flood zone, CRZ, etc. │
-│  COMPARABLES: 5 nearby projects, their price & forecast               │
-│  ACCURACY: "Our 3-yr forecasts in Thane were within ±7% in 71% cases" │
+│  RISKS: project litigation, RERA complaints, flood zone, CRZ         │
+│  COMPARABLES: 5 nearby projects, their price and forecast            │
+│  ACCURACY: "3-yr forecasts in Thane within +/-7% in 71% of cases"    │
 └──────────────────────────────────────────────────────────────────────┘
    [Download PDF report]  [Set alert]  [Compare]  [Add to portfolio]
 ```
